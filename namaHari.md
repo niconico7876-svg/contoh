@@ -1,0 +1,4 @@
+Senin
+Selasa
+Rabu
+Kamis
